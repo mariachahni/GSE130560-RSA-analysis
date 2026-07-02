@@ -24,6 +24,8 @@ library(tidyr)
 setwd("C:/Users/gaber/Downloads")
 
 # ---- 3. Load dataset ----
+# Dataset: GSE130560 (Wang et al. 2021, Genomics Proteomics Bioinformatics)
+# Available from: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130560
 # If files are still gzipped (first run), unzip first by uncommenting:
 #   GSE130560 <- read.csv(gunzip("GSE130560_phenotype.csv.gz"))
 #   load(gunzip("GSE130560_matrix.RData.gz"))
