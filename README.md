@@ -1,4 +1,4 @@
-# GSE130560 Analysis — WP5637 Pathway Validation
+# GSE130560 Analysis: WP5637 Pathway Validation
 
 This script was used to analyse the GSE130560 dataset as part of my bachelor's thesis at Maastricht University (BBS3006, 2026).
 
